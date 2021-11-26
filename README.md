@@ -8,8 +8,13 @@
 >**Πρωτο Βήμα**
 1. Θέλουμε την δημιουργία του backend server καλο είναι να παρεις την ροή του OIDC μεσα στο κώδικά θα μπορέσεις να βρείς χωρίζετε σε 2 μέρη 
 model->δημιουργούμε τις κλάσεις που θέλουμε για την εφαρμογή ένα τυπικό παράδειγμα ειναι:
-
+Πρώτη κλάση SignIdentityProof
 ![Screenshot_1](https://user-images.githubusercontent.com/72886828/143573832-aef44d7f-7026-46c0-bdc1-29db75efb005.png)
+![Screenshot_2](https://user-images.githubusercontent.com/72886828/143574738-df64be03-c6e8-47b3-a615-6e56ce91302a.png)
+
+Δεύτερη κλαση  Uniattributes
+![Screenshot_2](https://user-images.githubusercontent.com/72886828/143574996-506f69e1-331b-4d3e-a620-a55caa42d6ce.png)
+![Screenshot_3](https://user-images.githubusercontent.com/72886828/143575049-e8576003-9efe-4a9a-b964-72b8dd7a6fdf.png)
 
 
 server
