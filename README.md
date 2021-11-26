@@ -9,8 +9,7 @@
 1. Θέλουμε την δημιουργία του backend server καλο είναι να παρεις την ροή του OIDC μεσα στο κώδικά θα μπορέσεις να βρείς χωρίζετε σε 2 μέρη 
 model->δημιουργούμε τις κλάσεις που θέλουμε για την εφαρμογή ένα τυπικό παράδειγμα ειναι:
 
-https://github.com/ioannispanges/ptuxiaki/issues/1#issue-1064372078
-
+![Screenshot_1](https://user-images.githubusercontent.com/72886828/143573832-aef44d7f-7026-46c0-bdc1-29db75efb005.png)
 
 
 server
